@@ -1,0 +1,67 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Reusable Water Bottle",
+            "price": 20,
+            "imgUrl": "./images/Reusable Water Bottle.jpg",
+            "quantity": 1
+        },
+        {
+            "id": 2,
+            "title": "Bamboo Toothbrush Set",
+            "price": 12,
+            "imgUrl": "./images/Bamboo Toothbrush Set.jpg",
+            "quantity": 1
+        },
+        {
+            "id": 3,
+            "title": "Organic Cotton Tote Bag",
+            "price": 15,
+            "imgUrl": "./images/Organic Cotton Tote Bag.jpg",
+            "quantity": 1
+        },
+        {
+            "id": 4,
+            "title": "Eco-Friendly Food Wraps",
+            "price": 14,
+            "imgUrl": "./images/Eco-Friendly Food Wraps.jpg",
+            "quantity": 1
+        },
+        {
+            "id": 5,
+            "title": "Biodegradable Phone Case",
+            "price": 25,
+            "imgUrl": "./images/Biodegradable Phone Case.jpg",
+            "quantity": 1
+        },
+        {
+            "id": 6,
+            "title": "Solar-Powered Charger",
+            "price": 50,
+            "imgUrl": "./images/Solar-Powered Charger.jpg",
+            "quantity": 1
+        },
+        {
+            "id": 7,
+            "title": "Reusable Stainless Steel Straw",
+            "price": 10,
+            "imgUrl": "./images/Reusable Stainless Steel Straw.jpg",
+            "quantity": 1
+        },
+        {
+            "id": 8,
+            "title": "Compostable Waste Bags",
+            "price": 20,
+            "imgUrl": "./images/Compostable Waste Bags.jpg",
+            "quantity": 1
+        },
+        {
+            "id": 9,
+            "title": "Plant-Based Cleaning Products",
+            "price": 40,
+            "imgUrl": "./images/Plant-Based Cleaning Products.jpg",
+            "quantity": 1
+        }
+    ]
+}
